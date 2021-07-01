@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Trái đất vốn lạ thường
     Mà sao cậu cứ đi nhầm đường
     Lạc vào tim tớ lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Đằng sau chữ yêu đây là thương :edit leduykha`,
     btnIntro: 'hihi',
     title: 'làm người yêu tớ nhé 😙',
     desc: 'hihi ',
